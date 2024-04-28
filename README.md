@@ -10,10 +10,10 @@
 * [Official Resources](#official-resources)
 * [Preparation Process and Tips](#preparation-process-and-tips)
     * [Navigating Through the Learning Path](#navigating-thorugh-the-learning-path)
+* [External Resources](#external-resources)
 * [Exam Pattern and Analysis](#exam-pattern-and-analysis)
     * [Question Types and Scoring](#questions-types-and-scoring)
     * [Example Question Scenarios](#example-question-scenarios)
-* [External Resources](#external-resources)
 * [Exam Readiness and Procedure](#exam-readiness-and-procedure)
 
 ## Official Resources
