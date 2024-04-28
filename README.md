@@ -4,10 +4,6 @@
 
 <h1>Google Cloud Certified Professional Machine Learning Engineer - Preparation Guide</h1>
 
-
-<td><div style="display: flex;align-items: center;color:#626262;"><div><img style="max-height:40px;border-radius:100%; margin:0 15px 0 0" src="images/IMG_8056.jpeg"></div><div style="vertical-align:middle;font-size:14px;">Syed Arfath Ahmed<br><span style="font-size:11px; align-items:top;">28 Apr 2024</span></div></div></td>
-<hr style="height:0.5px;">
-
 [Google Cloud Certified Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer)
 
 ## Table of Contents
