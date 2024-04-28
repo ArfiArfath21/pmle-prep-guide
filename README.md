@@ -1,11 +1,11 @@
 <div style="text-align:center;">
-<img style="max-width:30%; padding-bottom:15px;" src="PMLE_Badge.png">
+<img style="max-width:30%; padding-bottom:15px;" src="images/PMLE_Badge.png">
 </div>
 
 <h1>Google Cloud Certified Professional Machine Learning Engineer - Preparation Guide</h1>
 
 
-<td><div style="display: flex;align-items: center;color:#626262;"><div><img style="max-height:40px;border-radius:100%; margin:0 15px 0 0" src="IMG_8056.jpeg"></div><div style="vertical-align:middle;font-size:14px;">Syed Arfath Ahmed<br><span style="font-size:11px; align-items:top;">28 Apr 2024</span></div></div></td>
+<td><div style="display: flex;align-items: center;color:#626262;"><div><img style="max-height:40px;border-radius:100%; margin:0 15px 0 0" src="images/IMG_8056.jpeg"></div><div style="vertical-align:middle;font-size:14px;">Syed Arfath Ahmed<br><span style="font-size:11px; align-items:top;">28 Apr 2024</span></div></div></td>
 <hr style="height:0.5px;">
 
 [Google Cloud Certified Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer)
@@ -72,7 +72,7 @@ The official resources should ideally be sufficient for the preparation, but in 
 
 ## Exam Pattern and Analysis
 <div style="text-align:center;">
-<img style="max-width:100%;" src="pie_chart.png">
+<img style="max-width:100%;" src="images/pie_chart.png">
 </div>
 
 As shown in the image above, the exam focuses on these 6 umbrella topics. Details of each are listed in the [Official Syllabus](#official-syllabus) section below.
@@ -83,29 +83,38 @@ As shown in the image above, the exam focuses on these 6 umbrella topics. Detail
 
 ### Example Question Scenarios
 Below are a few important example scenarios around which the questions may be focused around in the exam. These help in getting an overview of the final questions.
-1.  **Pre-processing**: 
+1. **Pre-processing**: 
 - In the case of company xyz, the data streamed is high-dimensional, what is the best way to select features for model training?
-- Datasource contains PII, what is the best way to handle it? Choose between Cloud DLP vs Cloud Healthcare API vs other pre-built AI solutions.
+- How to pre-process and store data in the best way to facilitate subsequent steps in the workflow?
+- Data handling techniques to improve efficiency and accuracy. Outliers, Categorical, high dimensional or imbalanced data.
+- Datasource contains PII or other sensitive data, what is the best way to handle it? 
+- Choose between Cloud DLP vs Cloud Healthcare API vs other pre-built AI solutions.
 2. **Pipeline Choice**: 
 - Given two pipeline frameworks, like Kubeflow or Vertex AI Pipelines(TFX), which one suits the best to the current problem?
 - Choose a framework among Dataflow, Dataproc, Airflow, Cloud Composer etc., under certain conditions.
 - Usage of specific components and connectors in frameworks like Kubeflow, TFX, Dataflow, Dataproc etc.
 3. **Constraint-Situations**: Under constraints like time, cost, development effort, infra overhead, management overhead etc., What is the best solution to implement?
 4. **Fact-based questions**: (Rare) Testing the knowledge around capabilities of existing Pretrained APIs or AI enterprise solutions.
-5. **ML Solution comparison**: 
+5. **ML Solution Comparison**: 
 - Given a certain problem, which is the best ML solution to adopt among Pretrained APIs, Auto ML, Custom Models?
 - Questions on concepts like Transfer Learning, Federated Learning, Edge device deployment etc.
-6. **Model Accuracy**: 
+- How to design a ML solution for a problem following the best practices?
+- Interoperability between various pipelines and frameworks and domains. Understanding of data transfer procedures and solutions.
+6. **Model Design & Accuracy**: 
 - An ML model you trained was doing fine is development, not so much in production? Why? How to resolve it? 
 - Model loss is not converging during training, what can be done?
-7. **Distributed Training & Accelerators**: 
+- Choose between solutions like L1, L2 Regularization, Dropout Regularization etc. for problems like overfitting and model stability.
+- How to select the metrics for training? Which one is most appropriate for a given case?
+7. **Distributed Training & Scaling**: 
 - Which compute engine instance is suitable (or not) for this scenario?
 - In a certain situation, which is best accelerator to use, if any? (CPU vs GPU vs TPU)
 - A huge model is taking a lot of time to train, with certain constraints which training strategy should be adopted?
 - Accelerators like GPU, TPU are not meant to be used in which cases?
+- Model is trained on-premises, how to best utilise Google cloud's ML services for scaling?
 8. **Serving Solution**: 
 - An existing solution is facing certain problems during serving (like latency, accuracy), how to best fix them?
 - How to improve the prediction time in certain cases, like edge deployment, mobile devices etc?
+- Model portability between Vertex AI, BigQuery ML, Edge Devices and so on. Differential Privacy & Federated Learning.
 9. **MLOps & Retraining**: 
 - How to stitch the CI/CD/CT practices with the Google Cloud services in a best way.  
 - What is the best approach to maintain model reliability with a retraining framework?
@@ -133,7 +142,6 @@ Below are a few important example scenarios around which the questions may be fo
 9. An online proctor will be assigned and you will be asked to clear <i>everything</i> from your table. 
 10. Capture and upload pictures of your exam environment. Once verified and approved, your exam will start momentarily.
 11. Stay calm and relaxed during the exam. All The Best!
-
 
 <div style="page-break-after: always;"></div>
 
