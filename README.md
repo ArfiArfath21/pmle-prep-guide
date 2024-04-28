@@ -38,7 +38,7 @@
 4. Make yourself familiar with the core Google Cloud ML services. Follow through the labs (especially in sections like MLOps, Production Systems etc.) and pay attention to the best practices being followed in those. The exam focuses a lot on best practices.
 5. After establishing some basic knowledge, start reading the Official Study Guide. This book is very thorough with the concepts being covered in the Exam. It is the <i>best resource</i> available for practice. The questions really test and help reinforce your understanding from the base. 
     > It is free on Oreilly Learning or can be bought on Amazon. It has more than 200 practice questions and grants access to 100 Questions in it's online testbank.
-6. As indicated in the [syllabus](#official-syllabus) and [analysis](#exam-pattern-and-analysis), during your preparation put emphasis on understanding how ML Solutions are architectured on Google Cloud. 
+6. As indicated in the [syllabus](#official-resources) and [analysis](#exam-pattern-and-analysis), during your preparation put emphasis on understanding how ML Solutions are architectured on Google Cloud. 
     > Vertex AI, Pretrained APIs, Auto ML, Dataflow, Tensorflow Extended, Kubeflow, Vertex AI Experiments, Hyperparameter Tuning, Model Serving, BigQuery ML etc., are a few areas that should be given some extra time to understand.
 7. Signup for the [digital resources](#http://www.wiley.com/go/sybextestprep) provided by the book and test yourself on the 100 extra questions provided. Each response selection(right or wrong) comes with its own explanation. These help clarify and strengthen your grasp on these topics. 
 8. In addition to the questions, from the digital resources, you also get access to 200+ flashcards to help quickly revise all the simple concepts. Revise these the day/night before the exam to jog your memory.
@@ -75,7 +75,7 @@ The official resources should ideally be sufficient for the preparation, but in 
 <img style="max-width:100%;" src="images/pie_chart.png">
 </div>
 
-As shown in the image above, the exam focuses on these 6 umbrella topics. Details of each are listed in the [Official Syllabus](#official-syllabus) section below.
+As shown in the image above, the exam focuses on these 6 umbrella topics. Details of each section are listed in detail on the [Official Syllabus](#official-resources) section on the certification page.
 
 ### Questions Types and Scoring
 - Multiple Choice Questions: Single and Multi Correct. Multi-correct questions will be rewarded only if all correct responses are selected. No questions will be asked on code.
