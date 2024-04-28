@@ -4,7 +4,7 @@
 
 <h1>Google Cloud Certified Professional Machine Learning Engineer - Preparation Guide</h1>
 
-[Google Cloud Certified Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer)
+[Google Cloud Certified Professional Machine Learning Engineer - Certification Home](https://cloud.google.com/learn/certification/machine-learning-engineer)
 
 ## Table of Contents
 * [Official Resources](#official-resources)
@@ -27,7 +27,6 @@
 * Sample **Questionnaire** - [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeYmkCANE81qSBqLW0g2X7RoskBX9yGYQu-m1TtsjMvHabGqg/viewform)
 * Official **Exam Guide & Syllabus** - [Certification Page](https://cloud.google.com/learn/certification/guides/machine-learning-engineer)
 * Cloud Skills Boost - Self Learning - [Learning Path (Old)](https://www.cloudskillsboost.google/paths/17)
-
 
 <div style="page-break-after: always;"></div>
 
